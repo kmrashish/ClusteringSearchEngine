@@ -1,0 +1,20 @@
+a {
+            color: green;
+            font-style:bold;
+  }
+body {
+            font-family: Roboto;
+            
+        }
+#search:hover {
+	    -webkit-transform:scale(1.3);	
+	     transform:scale(1.3);
+	     transition-timing-function:ease-out;
+	     transition-duration:200ms;
+}
+#registerSubmitButton:hover {
+	    -webkit-transform:scale(1.3);	
+	     transform:scale(1.3);
+	     transition-timing-function:ease-out;
+	     transition-duration:200ms;
+}
