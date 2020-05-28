@@ -1,0 +1,8 @@
+title: Search Engine
+description: Implementation of clustering for automatic URL classification and result prediction
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
